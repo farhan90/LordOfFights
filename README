@@ -1,0 +1,5 @@
+A simple game made in C++ to learn some basics of C++ programming. 
+This is an Role playing game where the user can choose a character
+type of Mage, Warrior and Ranger and play against a randomly selected computer
+opponent.The user has unlimited tries to play
+
